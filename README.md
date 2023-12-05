@@ -47,7 +47,7 @@ Thank you for visiting my github profile, and I hope you enjoy browsing my work.
 
 ###
 
-<img src="https://raw.githubusercontent.com/vimukthinirmana/vimukthinirmana/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
