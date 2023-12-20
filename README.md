@@ -1,4 +1,3 @@
-![](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4)
 
 <br clear="both">
 
