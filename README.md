@@ -1,3 +1,5 @@
+![](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4)
+
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm Vimukthi Nirmana<br>A am Front-End Developer from Srilanka</h1>
