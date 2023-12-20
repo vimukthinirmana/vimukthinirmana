@@ -8,9 +8,9 @@
 
 ###
 
-<p align="left">I'm interested in a variety of software development topics, including web development, ui/ux Design, and android app development. I'm always eager to learn more and expand my skillset.</p>
-<p align="left">In my free time, I like to explore the  of game development and 3D modeling. 
-Thank you for visiting my github profile, and I hope you enjoy browsing my work. </p>
+<p align="left">I'm interested in a variety of software development topics, including web development, UI/UX Design, and Android app development. I'm always eager to learn more and expand my skill set.</p>
+<p align="left">In my free time, I like to explore game development and 3D modeling. 
+Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work. </p>
 
 ###
 
