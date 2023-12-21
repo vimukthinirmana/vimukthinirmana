@@ -61,6 +61,10 @@ Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work.
 
 ###
 
+![Snake animation](https://raw.githubusercontent.com/{vimukthinirmana}/{vimukthinirmana}/output/github-contribution-grid-snake-dark.svg)
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vimukthinirmana.vimukthinirmana&right_color=chartreuse"  />
 </div>
