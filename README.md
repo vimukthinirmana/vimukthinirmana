@@ -41,7 +41,7 @@ Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-<hr>
+<br>
 
 <h4 align="center">Connect with me:</h4>
 
@@ -51,7 +51,8 @@ Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work.
 </a>  
 </div>
 
-###
+<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vimukthinirmana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -60,9 +61,7 @@ Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work.
 
 ###
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vimukthinirmana.vimukthinirmana&right_color=chartreuse"  />
 </div>
 
