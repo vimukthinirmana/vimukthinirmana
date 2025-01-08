@@ -1,17 +1,34 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Vimukthi Nirmana<br>A am Front-End Developer from Srilanka</h1>
+<!-- <h1 align="center">Hi 👋, I'm Vimukthi Nirmana<br>I am Front-End Developer from Srilanka</h1> -->
 
 ###
 
-<h3 align="left">About me:</h3>
+## 👋 About Me  
 
-###
+Hi there! Welcome to my GitHub profile!  
 
-<p align="left">I'm interested in a variety of software development topics, including web development, UI/UX Design, and Android app development. I'm always eager to learn more and expand my skill set.</p>
-<p align="left">In my free time, I like to explore game development and 3D modeling. 
-Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work. </p>
+I'm **Vimukthi Nirmana Sanketh**, a passionate **Frontend Developer** and aspiring **UI/UX Designer**, currently studying at **IJSE Institute of Software Engineering**. I enjoy building sleek user interfaces and transforming ideas into dynamic, user-friendly web experiences. 🚀
+
+💻 **Frontend Development & UI/UX Design**:  
+I am keenly interested in designing creative interfaces and developing responsive, interactive web applications. Whether it's a minimalist UI design or a complex web solution, I'm always excited to explore new challenges and learn.
+
+🎯 **Interests**:  
+- Crafting intuitive, user-centric UI/UX designs 🎨  
+- Developing modern, responsive web applications 🔧  
+- Exploring the latest web technologies and frameworks 🌐  
+
+🤝 **Let's Connect**:  
+I'm always eager to connect with like-minded developers, collaborate on exciting projects, and explore new opportunities! Feel free to contact me via LinkedIn or my GitHub profile anytime.
+
+---
+
+Thanks for visiting my GitHub profile! Let's create something extraordinary together. 🌟  
+Happy coding! 😊  
+
+---
+
 
 ###
 
@@ -42,7 +59,7 @@ Thank you for visiting my GitHub profile, and I hope you enjoy browsing my work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-<br>
+---
 
 <h4 align="center">Connect with me:</h4>
 
